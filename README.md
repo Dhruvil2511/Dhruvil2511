@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning c++ and Dsa
 - 💞️ I’m looking to collaborate on making projects
-- 📫 You can contact me at Linkedin , Instagram(my user name is @dhruvill2511)
+- 📫 You can contact me at Linkedin or Instagram(my user name is @dhruvill2511)
 
 <!---
 Dhruvil2511/Dhruvil2511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
