@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhruvil2511
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning c++ and Dsa
+- 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on making projects
 - 📫 You can contact me at dhruvilprajapati2003@gmail.com
 
