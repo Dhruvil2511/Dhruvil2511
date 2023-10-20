@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruvil Prajapati.</h1>
 <h3 align="center">CSE Undergrad | Currently learning Algorithms & exploring Full Stack.</h3>
-<img align="right" width="450" src="https://media.tenor.com/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"> 
+<img align="right" width="fit-content" src="https://media.tenor.com/o-wNCEq_6f0AAAAC/pompo-the-cinephile-typing-fast.gif"> 
 
 [![](https://visitcount.itsvg.in/api?id=Dhruvil2511&icon=9&color=0)](https://visitcount.itsvg.in)
 
