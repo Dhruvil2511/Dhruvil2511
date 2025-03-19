@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruvil Prajapati</h1>
 <h3 align="center">CSE Undergrad | Currently learning Algorithms & exploring Full Stack.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Dhruvil2511&icon=9&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvil2511&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvil2511" /> </p>
 
 <img align="right" width="400" src="typinh.gif">
 
